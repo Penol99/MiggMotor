@@ -1,0 +1,73 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.cso
+*.idb
+*.pdb
+*.tlog
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.out
+*.app
+
+/.vs
+/.Temp
+/.Lib
+Temp/Engine/Debug/Engine.log
+Temp/Engine/Debug/Engine.tlog/CL.command.1.tlog
+Temp/Engine/Debug/Engine.tlog/Cl.items.tlog
+Temp/Engine/Debug/Engine.tlog/CL.read.1.tlog
+Temp/Engine/Debug/Engine.tlog/CL.write.1.tlog
+Temp/Engine/Debug/Engine.tlog/Engine.lastbuildstate
+Temp/Engine/Debug/Engine.tlog/fxc.command.1.tlog
+Temp/Engine/Debug/Engine.tlog/fxc.read.1.tlog
+Temp/Engine/Debug/Engine.tlog/fxc.write.1.tlog
+Temp/Engine/Debug/Engine.tlog/Lib-link.read.1.tlog
+Temp/Engine/Debug/Engine.tlog/Lib-link.write.1.tlog
+Temp/Engine/Debug/Engine.tlog/Lib.command.1.tlog
+Temp/Engine/Debug/Engine_Debug.lib.recipe
+Temp/Game/Debug/Game.log
+Temp/Game/Debug/Game.tlog/CL.21184.write.1.tlog
+Temp/Game/Debug/Game.tlog/CL.command.1.tlog
+Temp/Game/Debug/Game.tlog/Cl.items.tlog
+Temp/Game/Debug/Game.tlog/CL.read.1.tlog
+Temp/Game/Debug/Game.tlog/Game.lastbuildstate
+Temp/Game/Debug/Game.tlog/link.command.1.tlog
+Temp/Game/Debug/Game.tlog/link.read.1.tlog
+Temp/Game/Debug/Game.tlog/link.write.1.tlog
+Temp/Game/Debug/Game_Debug.exe.recipe
+Temp/Game/Debug/Game_Debug.ilk
+Temp/Game/Debug/vc143.idb
+Temp/Game/Debug/vc143.pdb
+Temp/Include/Debug/Include.log
+Temp/Include/Debug/Include.tlog/CL.10000.write.1.tlog
+Temp/Include/Debug/Include.tlog/CL.command.1.tlog
+Temp/Include/Debug/Include.tlog/Cl.items.tlog
+Temp/Include/Debug/Include.tlog/CL.read.1.tlog
+Temp/Include/Debug/Include.tlog/Include.lastbuildstate
+Temp/Include/Debug/Include.tlog/Lib-link.read.1.tlog
+Temp/Include/Debug/Include.tlog/Lib-link.write.1.tlog
+Temp/Include/Debug/Include.tlog/Lib.command.1.tlog
+Temp/Include/Debug/Include_Debug.lib.recipe
